@@ -1,0 +1,25 @@
+Missing Data,Window,Accuracy,Classifier
+2%,1s,81,RnF
+2%,1s,81,SVM
+2%,1.5s,83,RnF
+2%,1.5s,83,SVM
+2%,2s,85,RnF
+2%,2s,84,SVM
+5%,1s,67,RnF
+5%,1s,66,SVM
+5%,1.5s,70,RnF
+5%,1.5s,70,SVM
+5%,2s,71,RnF
+5%,2s,71,SVM
+7%,1s,60,RnF
+7%,1s,60,SVM
+7%,1.5s,62,RnF
+7%,1.5s,62,SVM
+7%,2s,63,RnF
+7%,2s,63,SVM
+10%,1s,53,RnF
+10%,1s,53,SVM
+10%,1.5s,54,RnF
+10%,1.5s,54,SVM
+10%,2s,57,RnF
+10%,2s,57,SVM
