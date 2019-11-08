@@ -13,14 +13,14 @@ Analysis human activity recognition datasets. Visualizing the data through diffe
 - **Jupyter Notebook**
 
 # Description
-- **DUMD** missing data graph based on window size
+- **DUMD** missing data graph based on window size <br/>
 ![](images/dumdmissingdata.png)
 
-- **Single Chest** dataset activity types
+- **Single Chest** dataset activity types <br/>
 ![](images/activities.png)
 
-- **HASC** dataset jogging activity plot
+- **HASC** dataset jogging activity plot <br/>
 ![](images/jogging.png)
 
-- Confusion Matrix of human activities
+- Confusion Matrix of human activities <br/>
 ![](images/cm.png)
